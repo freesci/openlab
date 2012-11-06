@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Libraries to visualize taxonomic trees"
-description: ""
+description: "miniproject notes"
 category: visualization
 tags: [python,visualization,taxonomy,trees]
 ---
