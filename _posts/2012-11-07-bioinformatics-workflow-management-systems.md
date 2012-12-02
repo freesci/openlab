@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bioinformatics workflow management systems"
-description: "list and notes on workflow management systems"
+description: "lists and notes"
 category: bioinformatics
 tags: [workflows,frequentlyupdated]
 ---

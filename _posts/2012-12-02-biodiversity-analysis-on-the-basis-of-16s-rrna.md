@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Biodiversity analysis on the basis of 16S rRNA"
-description: ""
+description: "reading notes"
 category: bioinformatics
 tags: [biodiversity,metagenomics,16S]
 ---

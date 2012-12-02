@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Science annotated bibliography"
-description: "frequently updated bibliography of articles on general Open Science issues"
+description: "frequently updated"
 category: science2.0
 tags: [openscience,bibliography]
 ---
